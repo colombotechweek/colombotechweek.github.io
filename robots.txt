@@ -1,1 +1,4 @@
-User-agent: *\nAllow: /\n\nSitemap: https://colombotechweek.com/sitemap.xml\n
+User-agent: *
+Allow: /
+
+Sitemap: https://colombotechweek.com/sitemap.xml
